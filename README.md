@@ -1,1 +1,1 @@
-# c35-game
+# class-35-project
